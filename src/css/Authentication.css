@@ -1,0 +1,105 @@
+.btn-outline-facebook {
+  border: 1px solid #3b5998 !important;
+  color: #3b5998;
+}
+
+.btn-outline-twitter {
+  border: 1px solid #3b5998 !important;
+  color: #3b5998;
+}
+
+.btn-outline-linkedin {
+  border: 1px solid #007bb6 !important;
+  color: #007bb6;
+}
+
+.btn-outline-github {
+  border: 1px solid #444444 !important;
+  color: #444444;
+}
+.form-control-position {
+  position: absolute;
+  top: -5px;
+  right: 0;
+  z-index: 2;
+  display: block;
+  width: 2.5rem;
+  height: 2.5rem;
+  line-height: 3.2rem;
+  text-align: center;
+  outline: none;
+}
+.bg-full-screen-image {
+  background: url("../assets/bg-2.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.card-header {
+  padding: 1.5rem 1.5rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+.blank-page .content-wrapper .flexbox-container {
+  display: flex;
+  align-items: center;
+  min-height: calc(100vh - 3.2rem);
+}
+
+.line-on-side {
+  border-bottom: 1px solid #dadada;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+.line-on-side {
+  border-bottom: 1px solid #dadada;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+.line-on-side span {
+  background: #fff;
+  padding: 0 10px;
+}
+
+.btn-social-icon {
+  margin-right: 1rem;
+  margin-bottom: 1.5rem;
+}
+form .form-group {
+  margin-bottom: 1.5rem;
+}
+.has-icon-left .form-control {
+  padding-right: 1rem;
+  padding-left: calc(1.25em + 1.5rem + 2px);
+}
+.has-icon-left .form-control-position {
+  right: auto;
+  left: inherit;
+}
+
+.disable-outline:focus {
+  outline: none;
+  box-shadow: none;
+}
+.card {
+  margin-bottom: 1.875rem;
+  border: none;
+  box-shadow: 0 2px 18px 1px rgb(49 53 72 / 10%);
+  border-radius: 0.45rem;
+}
+.app_forgot {
+  margin: 0;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #6b6f82;
+  text-align: left;
+  background-color: #f4f5fa;
+  align-items: center;
+  overflow: hidden;
+  height: 100vh;
+}

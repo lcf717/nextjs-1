@@ -1,0 +1,7 @@
+.MuiListItem-button {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12) !important;
+}
+.MuiListItem-root {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+}
