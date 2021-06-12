@@ -1,5 +1,6 @@
 export default {
   GOOGLE: {
-    reCaptcha: "6Lc7E-gaAAAAAGtMCfW5kMJfJuNW6wUAhcZ_z-xN",
+    reCaptcha: "6Lf2M_AaAAAAAFMyMedQX8TCdH9cWH0XLxHOsvGi",
+
   },
 };
