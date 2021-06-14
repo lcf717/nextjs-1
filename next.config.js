@@ -7,9 +7,9 @@ webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
     // Example using webpack option
     //config.plugins.push(new webpack.IgnorePlugin(/\/__tests__\//))
     config.node = {
-        fs: 'empty',
-        net: 'empty',
-        tls: 'empty'
+        fs: 'empty'
+  //      net: 'empty',
+  //      tls: 'empty'
     }
     return config
 },
